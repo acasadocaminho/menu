@@ -87,22 +87,23 @@ Todas informações importantes sobre a instituição se encontram disponíveis 
        Cep: 36016-130 - Juiz de Fora - MG
 
 
-4.1. Condução - Itinerário - Transporte Público:
+   4.1) Condução - Itinerário - Transporte Público:
 
-  4.1.1. GPS: 
+      4.1.1. GPS: 
       
-      https://maps.app.goo.gl/iDxxxudsDdm1uQwx7
+       https://maps.app.goo.gl/iDxxxudsDdm1uQwx7
 
-  4.1.2. Itinerário - Transporte Público:
+      4.1.2. Itinerário - Transporte Público:
 
-      Ônibus 501 - Padre Café / Jardim Glória:
+       Ônibus 501 - Padre Café / Jardim Glória:
 
-      https://www.astransp.com.br/buscaLinhas.aspx?IDLinha=112
+       https://www.astransp.com.br/buscaLinhas.aspx?IDLinha=112
 
 
-      Ônibus 509 - Alto Dom Bosco / Paineiras: 
 
-      https://www.astransp.com.br/buscaLinhas.aspx?IDLinha=57
+       Ônibus 509 - Alto Dom Bosco / Paineiras: 
+
+       https://www.astransp.com.br/buscaLinhas.aspx?IDLinha=57
 
    --------------------------------------------------------------------------------------------------
 
