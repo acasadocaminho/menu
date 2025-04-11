@@ -27,14 +27,19 @@ Todas informações importantes sobre a instituição se encontram disponíveis 
 2.1) Depósito Bancário (TED) - COMUNIDADE ESPÍRITA “A CASA DO CAMINHO”
 
 Caixa Econômica Federal 104
+
 Agência 2419
+
 Operação 003
+
 Conta 501.287-0
+
 CNPJ 17.690.207/0001-38
 
 2.2) Pix - COMUNIDADE ESPÍRITA “A CASA DO CAMINHO”
 
 Tipo de Chave: CNPJ
+
 Chave: 17690207000138
 
 2.3) Depósito Bancário (TED) - 
