@@ -1,4 +1,4 @@
-# menu
+# Menu Principal
 Todas informações importantes sobre a instituição se encontram disponíveis aqui:
 
 1. Redes Sociais:
@@ -77,6 +77,37 @@ Todas informações importantes sobre a instituição se encontram disponíveis 
           (32) 3017-4002
 
    --------------------------------------------------------------------------------------------------
-   
+
+4. Endereço:
+
+       Rua: Almirante Barroso 139
+
+       Bairro: Paineiras
+
+       Cep: 36016-130 - Juiz de Fora - MG
+
+
+4.1. Condução - Itinerário - Transporte Público:
+
+  4.1.1. GPS: 
+      
+      https://maps.app.goo.gl/iDxxxudsDdm1uQwx7
+
+  4.1.2. Itinerário - Transporte Público:
+
+      Ônibus 501 - Padre Café / Jardim Glória:
+
+      https://www.astransp.com.br/buscaLinhas.aspx?IDLinha=112
+
+
+      Ônibus 509 - Alto Dom Bosco / Paineiras: 
+
+      https://www.astransp.com.br/buscaLinhas.aspx?IDLinha=57
+
+-----------------------------------------------------------------------------------------------------
+
+
+        
+
    
       
