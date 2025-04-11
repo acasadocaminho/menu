@@ -107,6 +107,14 @@ Todas informações importantes sobre a instituição se encontram disponíveis 
 
    --------------------------------------------------------------------------------------------------
 
+   5. Eventos Semanais Padrões da Comunidade:
+
+      https://github.com/acasadocaminho/semanal/blob/main/README.md
+
+   --------------------------------------------------------------------------------------------------
+
+   6. Eventos e Projetos Especiais Anuais da Comunidade:
+
 
         
 
