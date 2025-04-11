@@ -26,6 +26,7 @@ Todas informações importantes sobre a instituição se encontram disponíveis 
    ---------------------------------------------------------------------------------------------------
 
 2. Doações e Contribuições:
+   
    2.1) Depósito Bancário (TED) - COMUNIDADE ESPÍRITA “A CASA DO CAMINHO”:
 
        Caixa Econômica Federal 104
@@ -40,7 +41,7 @@ Todas informações importantes sobre a instituição se encontram disponíveis 
 
 
 
-   2.2) PIX - COMUNIDADE ESPÍRITA “A CASA DO CAMINHO”
+   2.2) PIX - COMUNIDADE ESPÍRITA “A CASA DO CAMINHO”:
 
        Tipo de Chave: CNPJ
 
@@ -48,5 +49,26 @@ Todas informações importantes sobre a instituição se encontram disponíveis 
 
 
 
-    2.3) Depósito Bancário (TED) - 
+    2.3) Depósito Bancário (TED) - "LAR DO CAMINHO":
+   
+       Itau Unibanco SA 341
+   
+       Agência 0352
+   
+       Conta 48.010-7
+   
+       CNPJ 20.451.829/0001-18
+
+   
+
+    2.4) PIX - "LAR DO CAMINHO":
+
+       Tipo de Chave: CNPJ
+   
+       Chave: 17690207000138
+
+
+   --------------------------------------------------------------------------------------------------
+   
+   
       
