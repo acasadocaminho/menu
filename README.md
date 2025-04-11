@@ -119,7 +119,9 @@ Todas informações importantes sobre a instituição se encontram disponíveis 
 
    --------------------------------------------------------------------------------------------------
 
-7. 
+7. Exclusividades para iPhone e iPad:
+
+      https://github.com/acasadocaminho/aparelhos-apple
 
 
         
