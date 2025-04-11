@@ -70,7 +70,7 @@ Todas informações importantes sobre a instituição se encontram disponíveis 
 
    --------------------------------------------------------------------------------------------------
 
-   3. Telefones de Contato do Plantão Espiritual 24 horas:
+3. Telefones de Contato do Plantão Espiritual 24 horas:
 
           (32) 3216-9616
       
