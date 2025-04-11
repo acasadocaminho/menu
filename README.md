@@ -115,6 +115,12 @@ Todas informações importantes sobre a instituição se encontram disponíveis 
 
 6. Eventos e Projetos Especiais Anuais da Comunidade:
 
+      https://github.com/acasadocaminho/anual/blob/main/README.md
+
+   --------------------------------------------------------------------------------------------------
+
+7. 
+
 
         
 
